@@ -4,7 +4,7 @@
 
 
 ### Project
- <a href="https://github.com/byunnn/Priority-areas-for-education-on-financial-services" target="_blank"> Data Analysis Project </a>: Selection of priority areas for education on financial services for vulnerable elderly population in Seoul
+ <a href="https://github.com/byunnn/Priority-areas-for-education-on-financial-services" target="_blank"> K data (데이터 청년 캠퍼스) </a>: Selection of priority areas for education on financial services for vulnerable elderly population in Seoul
 
 
 <a href="https://github.com/byunnn/Capstone-design-Yogiru" target="_blank"> Yogiru </a>: INU Casptone Design
