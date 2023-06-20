@@ -3,7 +3,9 @@
 <a href="https://byeon-sg.tistory.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/fa52fe1a3570da3b49d7d1a12297353d798f8f2a71c0c6499300f0755eb9c90b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546563685f426c6f672d4444304237383f7374796c653d666c61742d737175617265266c6f676f3d47697448756225323053706f6e736f7273266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&amp;logo=GitHub%20Sponsors&amp;logoColor=white" style="max-width: 100%;"></a>
 
 
-
+### Project
+--- 
+ <a href="https://github.com/byunnn/Priority-areas-for-education-on-financial-services" target="_blank"> 서Data Analysis Project </a>: Selection of priority areas for education on financial services for vulnerable elderly population in Seoul
 
 <!--
 **byunnn/byunnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
