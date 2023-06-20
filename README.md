@@ -5,7 +5,15 @@
 
 ### Project
 --- 
- <a href="https://github.com/byunnn/Priority-areas-for-education-on-financial-services" target="_blank"> 서Data Analysis Project </a>: Selection of priority areas for education on financial services for vulnerable elderly population in Seoul
+ <a href="https://github.com/byunnn/Priority-areas-for-education-on-financial-services" target="_blank"> Data Analysis Project </a>: Selection of priority areas for education on financial services for vulnerable elderly population in Seoul
+
+<a href="https://github.com/byunnn/Capstone-design-Yogiru" target="_blank"> Yogiru </a>: INU Casptone Design
+
+<a href="https://myplanetplan.org/" target="_blank"> My Planet Plan </a>: Windesheim University Mobile Solution Project
+
+<a href="https://github.com/byunnn/Multi-Modal-Emotion-Recognition" target="_blank"> ki-it paper contest </a>: KoBERT-LSTM Model Based on Recurrent Neural Network for Emotion Recognition in Korean Conversational Text
+
+<a href="" target="_blank"> Progress Ideas & Upgrade Developments or Apps </a>: 
 
 <!--
 **byunnn/byunnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
