@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <a href="https://byeon-sg.tistory.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/fa52fe1a3570da3b49d7d1a12297353d798f8f2a71c0c6499300f0755eb9c90b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546563685f426c6f672d4444304237383f7374796c653d666c61742d737175617265266c6f676f3d47697448756225323053706f6e736f7273266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&amp;logo=GitHub%20Sponsors&amp;logoColor=white" style="max-width: 100%;"></a>
 
@@ -11,18 +11,21 @@
 
 
 ### Project
- <a href="https://github.com/byunnn/Priority-areas-for-education-on-financial-services" target="_blank"> K data (데이터 청년 캠퍼스) </a>: Selection of priority areas for education on financial services for vulnerable elderly population in Seoul
+ <a href="https://github.com/byunnn/Priority-areas-for-education-on-financial-services" target="_blank"> Selection of priority areas for education on financial services </a>: Data campus project 🏅
 
 
-<a href="https://github.com/byunnn/Capstone-design-Yogiru" target="_blank"> Yogiru </a>: INU Casptone Design
+<a href="https://github.com/byunnn/Capstone-design-Yogiru" target="_blank"> Yogiru </a>: INU Casptone Design 🏅
 
 <a href="https://myplanetplan.org/" target="_blank"> My Planet Plan </a>: Windesheim University Mobile Solution Project
 
-<a href="https://github.com/byunnn/Multi-Modal-Emotion-Recognition" target="_blank"> ki-it paper contest </a>: KoBERT-LSTM Model Based on Recurrent Neural Network for Emotion Recognition in Korean Conversational Text
+<a href="https://github.com/byunnn/Multi-Modal-Emotion-Recognition" target="_blank"> Emotion Recognition in Korean Conversational Text </a>:  ki-it paper contest 🏅
 
-<a href="" target="_blank"> Progress Ideas & Upgrade Developments or Apps </a>: 
+<a href="" target="_blank"> DaOne </a>: Progress Ideas & Upgrade Developments or Apps Project
+
+
 
 <!--
+<a href="https://github.com/byunnn/Synthetic-data" target="_blank"> Synthetic-data </a>: Hanium Project
 **byunnn/byunnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byunnn&show_icons=true&theme=radical)
