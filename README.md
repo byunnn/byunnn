@@ -18,11 +18,12 @@
 
 <a href="https://myplanetplan.org/" target="_blank"> My Planet Plan </a>: Windesheim University Mobile Solution Project
 
+<a href="https://github.com/byunnn/Synthetic-data" target="_blank"> Synthetic-data </a>: 2023 Hanium Project
+
 <a href="https://github.com/byunnn/Multi-Modal-Emotion-Recognition" target="_blank"> Emotion Recognition in Korean Conversational Text </a>:  ki-it paper contest 🏅
 
 <a href="" target="_blank"> DaOne </a>: Progress Ideas & Upgrade Developments or Apps Project
-
-
+ 
 
 <!--
 <a href="https://github.com/byunnn/Synthetic-data" target="_blank"> Synthetic-data </a>: Hanium Project
