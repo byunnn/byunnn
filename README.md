@@ -23,7 +23,8 @@
 <a href="https://github.com/byunnn/Multi-Modal-Emotion-Recognition" target="_blank"> Emotion Recognition in Korean Conversational Text </a>:  ki-it paper contest 🏅
 
 <a href="https://github.com/byunnn/DaOne" target="_blank"> DaOne </a>: Progress Ideas & Upgrade Developments or Apps Project
- 
+
+<a href="" target="_blank"> Action Recognition Framework </a>: Internship Project
 
 <!--
 <a href="https://github.com/byunnn/Synthetic-data" target="_blank"> Synthetic-data </a>: Hanium Project
