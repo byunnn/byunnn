@@ -16,7 +16,7 @@
 
 <a href="https://github.com/byunnn/Capstone-design-Yogiru" target="_blank"> Yogiru </a>: INU Casptone Design 🏅
 
-<a href="https://myplanetplan.org/" target="_blank"> My Planet Plan </a>: Windesheim University Mobile Solution Project
+<a href="https://github.com/byunnn/MyPlanetPlan" target="_blank"> My Planet Plan </a>: Windesheim University Mobile Solution Project
 
 <a href="https://github.com/byunnn/Synthetic-data" target="_blank"> Synthetic-data </a>: 2023 Hanium Project
 
