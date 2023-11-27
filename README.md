@@ -18,13 +18,15 @@
 
 <a href="https://github.com/byunnn/MyPlanetPlan" target="_blank"> My Planet Plan </a>: Windesheim University Mobile Solution Project
 
-<a href="https://github.com/byunnn/Synthetic-data" target="_blank"> Synthetic-data </a>: 2023 Hanium Project
-
 <a href="https://github.com/byunnn/Multi-Modal-Emotion-Recognition" target="_blank"> Emotion Recognition in Korean Conversational Text </a>:  ki-it paper contest 🏅
 
 <a href="https://github.com/byunnn/DaOne" target="_blank"> DaOne </a>: Progress Ideas & Upgrade Developments or Apps Project
 
+<a href="https://github.com/byunnn/Synthetic-data" target="_blank"> Synthetic-data </a>: 2023 Hanium Project
+
 <a href="" target="_blank"> Action Recognition Framework </a>: Internship Project
+
+<a href="" target="_blank"> Generating rare data solutions based on deep learning. </a>: 2023 Coex Softwave
 
 <!--
 <a href="https://github.com/byunnn/Synthetic-data" target="_blank"> Synthetic-data </a>: Hanium Project
