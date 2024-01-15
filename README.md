@@ -1,12 +1,10 @@
-### 
-
-<a href="https://byeon-sg.tistory.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/fa52fe1a3570da3b49d7d1a12297353d798f8f2a71c0c6499300f0755eb9c90b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546563685f426c6f672d4444304237383f7374796c653d666c61742d737175617265266c6f676f3d47697448756225323053706f6e736f7273266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&amp;logo=GitHub%20Sponsors&amp;logoColor=white" style="max-width: 100%;"></a>
+### Skills
 
 
-<img src="https://camo.githubusercontent.com/abdb916448a4cdf09b28df6c1d048ec5ce155a9025e3aeba910c6cbca1deb034/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d7b7374796c657d266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Python-3776AB?style={style}&amp;logo=Python&amp;logoColor=white" style="max-width: 100%;">  <img src="https://camo.githubusercontent.com/f0d6fd70ba58ceceda091d15e1e8af0311e64afab31bde253449613125e3bb2b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5079546f7263682d4545344332433f7374796c653d7b7374796c657d266c6f676f3d5079546f726368266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/PyTorch-EE4C2C?style={style}&amp;logo=PyTorch&amp;logoColor=white" style="max-width: 100%;">
-
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://camo.githubusercontent.com/d891718aad2153fb86d0027665e47f5f477e4e16598122347f440aea92ce96ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666c61742d737175617265266c6f676f3d5265616374266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=black" style="max-width: 100%;">
-
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 
 
