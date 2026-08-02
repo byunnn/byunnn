@@ -15,8 +15,6 @@
 
 <a href="https://github.com/byunnn/Synthetic-data" target="_blank"> Synthetic-data </a>: 2023 Hanium Project
 
-<a href="" target="_blank"> Action Recognition Framework </a>: Internship Project
-
 <a href="" target="_blank"> Generating rare data solution based on deep learning. </a>: 2023 Coex Softwave
 
 <!--
